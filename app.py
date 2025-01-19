@@ -6,7 +6,7 @@ from phi.llm.openai import OpenAIChat
 
 
 #Initialize
-st.title("AI Search Assistant")
+st.title("AI Search Assistant 🤖")
 st.caption("An AI-powered search assistant to help you find information on the web.")
 
 
